@@ -9,5 +9,8 @@ instagram_username: criticalcelticsfan
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
+# Google Analytics
+google_analytics: G-3LGDRQ2TT9
+
 # theme
 theme: minima
