@@ -15,3 +15,7 @@ google_analytics: G-3LGDRQ2TT9
 
 # theme
 theme: minima
+
+# plugins
+plugins:
+  - jekyll-sitemap
