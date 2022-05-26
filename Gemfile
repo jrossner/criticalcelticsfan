@@ -10,6 +10,8 @@ gem: jekyll-sitemap
 source "https://rubygems.org"
 gemspec :name => "jekyll"
 
+gem "jekyll-remote-theme"
+
 gem "rake", "~> 13.0"
 
 group :development do
