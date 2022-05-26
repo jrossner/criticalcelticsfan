@@ -6,8 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # social links
 social_links:
-  instagram: criticalcelticsfan
-  twitter: criticalcsfan
+  instagram_username: criticalcelticsfan
+  twitter_username: criticalcsfan
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
