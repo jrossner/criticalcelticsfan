@@ -5,11 +5,9 @@ description: > # this means to ignore newlines until "baseurl:"
   We love watching, cheering, and living every Celtics moment, even the painful ones.
 
 #instagram_username: criticalcelticsfan
-minima:
-  # social links
-  social_links:
-    instagram: criticalcelticsfan
-    twitter: criticalcsfan
+# social links
+instagram_username: criticalcelticsfan
+twitter_username: criticalcsfan
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
@@ -17,8 +15,7 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 google_analytics: G-DSYZFWXV0Y
 
 # theme
-#remote_theme: jekyll/minima
-theme: minima
+remote_theme: benbalter/retlab
 
 # plugins
 plugins:
