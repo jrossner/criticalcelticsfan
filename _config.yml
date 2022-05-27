@@ -22,6 +22,9 @@ google_analytics: G-DSYZFWXV0Y
 #remote_theme: benbalter/retlab
 theme: minima
 
+# paginate
+paginate_path: "/articles/:num/"
+
 # plugins
 plugins:
   - jekyll-sitemap
