@@ -25,4 +25,5 @@ theme: minima
 # plugins
 plugins:
   - jekyll-sitemap
+  - jekyll-paginate
   #- jekyll-remote-theme
