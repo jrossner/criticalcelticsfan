@@ -1,0 +1,4 @@
+Sitemap: https://jrossner.github.io/criticalcelticsfan/sitemap.xml
+
+User-agent: *
+Disallow:
