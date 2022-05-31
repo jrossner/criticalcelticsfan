@@ -12,7 +12,7 @@ gem: jekyll-sitemap
 source "https://rubygems.org"
 gemspec :name => "jekyll"
 
-gem "jekyll-remote-theme"
+gem "minima", :github => 'jekyll/minima'"
 
 gem "rake", "~> 13.0"
 
