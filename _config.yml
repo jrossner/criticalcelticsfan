@@ -26,4 +26,4 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-sitemap
   - jekyll-feed
-  #- jekyll-remote-theme
+  - jekyll-remote-theme
