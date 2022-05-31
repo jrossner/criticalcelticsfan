@@ -19,8 +19,8 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 google_analytics: G-DSYZFWXV0Y
 
 # theme
-#remote_theme: benbalter/retlab
-theme: minima
+remote_theme: jekyll/minima
+#theme: minima
 
 # plugins
 plugins:
