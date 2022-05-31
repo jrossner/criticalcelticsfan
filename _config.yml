@@ -27,6 +27,12 @@ google_analytics: G-DSYZFWXV0Y
 remote_theme: jekyll/minima
 #theme: minima
 
+# Disqus Comments
+disqus:
+  # Leave shortname blank to disable comments site-wide.
+  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+  shortname: criticalcelticsfan
+
 # plugins
 plugins:
   - jekyll-sitemap
