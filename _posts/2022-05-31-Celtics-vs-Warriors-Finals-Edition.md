@@ -30,7 +30,7 @@ C - Robert Williams <br>
 Let’s take a look at how these groups have performed in the playoffs so far:
 
 <p align="center"> 
-    <img src="/criticalcelticsfan/assets/22Finals/s5comp.png" width="500" height="500" />
+    <img src="/criticalcelticsfan/assets/22Finals/s5comp.png" width="500" height="400" />
 </p>
 
 What pops out to me is the Warriors, statistically, look like the veteran group: more efficient shooting and fewer turnovers. Not exactly what we saw from the Celtics in the last two rounds, who as a team routinely donated the ball to their opponents in traffic and chucked it up from deep.
