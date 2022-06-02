@@ -39,7 +39,7 @@ What pops out to me is the Warriors, statistically, look like the veteran group:
 Let's look at some predictions we have for this series. Not how many games or who wins, but some story lines we expect to see.
 This breakdown is a work in progress, check back in a bit for more. Thanks!
 
-## 1) Aaron Nesmith will be a significant contributor in multiple games this series. 
+### 1) Aaron Nesmith will be a significant contributor in multiple games this series. 
 
 Specifically, he will provide more for the Celtics than Payton Pritchard. 
 
@@ -63,3 +63,6 @@ Go Celts.
 <p align="right"> 
     <img src="/criticalcelticsfan/assets/ccflogo.jpg" width="50" height="50" />
 </p>
+
+### 2) Jordan Poole Will Have a Field-Day Against the Cs' Second Unit
+Per <a href="https://www.basketball-reference.com/players/p/poolejo01.html">Basketball-Reference.com</a>, Jordan Poole has averaged __18.4 points on 53.1% shooting from the field__, and 39.3% from behind the arc in the playoffs. __An Absolute Weapon__, and he's coming off the bench most games. The Celtics have a handful of good defenders to put on guards -- Marcus Smart, Derrick White, and Jaylen Brown -- but they can't be expected to guard Curry and Thompson on the starters group and then continue on Poole. It means at all times, the Celtics' back court duos will be expected to defend Warriors with extreme scoring potential. Consider that Brown will be asked to carry a large load on offense, and you can't expect him to put in serious time defending the Warriors guards. The idea of Payton Pritchard trying to guard Poole (No chance they try him on Curry, or Thompson who'd simply back him down all the way to the bucket) should worry Celtics fans. I expect at least one scoring outburst from Poole that takes a game for the Warriors, or at least asserts the dominance the Warriors have at guard scoring.
