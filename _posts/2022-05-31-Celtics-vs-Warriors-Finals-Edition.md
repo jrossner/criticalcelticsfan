@@ -44,7 +44,7 @@ This breakdown is a work in progress, check back in a bit for more. Thanks!
 Specifically, he will provide more for the Celtics than Payton Pritchard. 
 
 <p align="center"> 
-  <img src="/criticalcelticsfan/assets/22Finals/nesmithPritchard.JPG" width="500" height="400" alt=“The Celtics’ Aaron Nesmith and Payton Pritchard” url=“ https://www.nba.com/amp/celtics/video/originals/luckyrooks-episode4-051721” />
+  <img src="/criticalcelticsfan/assets/22Finals/nesmithPritchard.JPG" width="500" height="400" alt=“The Celtics’ Aaron Nesmith and Payton Pritchard” />
 </p>
 
 Pritchard played just over 14 minutes a game in 71 regular season games, and almost 13.5 minutes per game in the playoffs. He has appeared in each playoff game.
