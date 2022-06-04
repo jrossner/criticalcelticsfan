@@ -12,7 +12,7 @@ The Boston Celtics took game 1 of the NBA Finals on the Golden State Warriors’
 The Warriors hit 19 of their 45 three-point attempts: an impressive 42.2% clip, led by Stephen Curry’s 7 of 14 performance, including 6 for 7 in the first quarter. From the field overall, they hit 39 of 88 (44.3%). Their 14 turnovers are nothing to brag about, but many teams have won while turning the ball over more. The Celtics led by 2 at halftime, but the patented Warriors 3rd quarter gave them a healthy 12 point lead. Yet many Celtics fans probably had a conversation like this at the break before the 4th quarter:
 
 <p align="center"> 
-    <img src="/criticalcelticsfan/assets/22Finals/game1convo.jpeg" width="400" height="600" />
+    <img src="/criticalcelticsfan/assets/22Finals/game1convo.jpeg" width="400" height="500" />
 </p>
 
 I wouldn’t liken it to a switch getting flipped, because the truth is we could feel it building at the end of the third. It’s true the Celtics’ keeping it close in the first half despite Curry going semi-nuclear felt like a success, but the third quarter was a gut check. After Jordan Poole put the Warriors up 14 with 3:43 to go, the Celtics offense started to click. Derrick White sunk one from deep. Then Horford. Brown finally takes it to the rack again, then White converts two at the foul line. After a quality drive, Rob Williams cleans up Brown’s miss with authority. Two more White free-throws and the Celtics offense is starting to hum but they’re down 12.
