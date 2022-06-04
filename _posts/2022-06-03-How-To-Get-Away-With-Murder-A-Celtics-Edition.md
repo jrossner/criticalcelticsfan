@@ -6,7 +6,7 @@ categories: nba finals playoffs celtics warriors
 comments: true
 ---
 
-The Boston Celtics took game 1 of the NBA Finals on the Golden State Warriors’ home court. We knew whoever won Game 1 would instantly become the favorites to win the series. While I maintain the Celtics should win this series in 6 games. But I caution any Celtics fans who now expect the Celtics to be holding the Larry O’Brien by June 14th.
+The Boston Celtics took game 1 of the NBA Finals on the Golden State Warriors’ home court. We knew whoever won Game 1 would instantly become the favorites to win the series. While I maintain the Celtics should win this series in 6 games, I caution any Celtics fans who now expect the Celtics to be holding the Larry O’Brien by June 14th.
 
 ## Game 1 Review
 The Warriors hit 19 of their 45 three-point attempts: an impressive 42.2% clip, led by Stephen Curry’s 7 of 14 performance, including 6 for 7 in the first quarter. From the field overall, they hit 39 of 88 (44.3%). Their 14 turnovers are nothing to brag about, but many teams have won while turning the ball over more. The Celtics led by 2 at halftime, but the patented Warriors 3rd quarter gave them a healthy 12 point lead. Yet many Celtics fans probably had a conversation like this at the break before the 4th quarter:
