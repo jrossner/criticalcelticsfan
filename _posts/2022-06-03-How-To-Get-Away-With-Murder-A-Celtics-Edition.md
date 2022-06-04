@@ -36,7 +36,7 @@ But the scary reality for the Warriors is that this wasn’t some Hailey’s Com
 It’s safe to assume Jayson, with some assistance from Grant, should be able to take on some of the scoring load our Game 1 heroes carried. 
 
 ## What To Watch in Game 2
-### Jordan Poole.
+### Jordan Poole
 He only added 9 points and 2 assists in 25 minutes of action Thursday, but he had his own run in the last four minutes of the 3rd quarter that put some fear in the heart of Celtics fans. He showed a tremendous ability to create separation with his dribble, and while the play-by-play will only show him draining a deep three, creating an open three for Igoudala, and a couple trips to the charity stripe, if Poole gets any sort of rhythm he could help Steph run this defense ragged and torch them inside and out.
 
 ### How the Warriors play Tatum
