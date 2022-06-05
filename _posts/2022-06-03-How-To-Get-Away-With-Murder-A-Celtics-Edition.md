@@ -42,6 +42,10 @@ He only added 9 points and 2 assists in 25 minutes of action Thursday, but he ha
 ### How the Warriors play Tatum
 The Warriors elected to let a single man guard Tatum for most of Game 1, and Celtics forward picked the Warriors apart. If Tatum has even an average shooting night in Game 2, will the Warriors double him and face even more certain death if Tatum continues to show proficiency in finding the open man? Or will they try to make Tatum beat them on their own? It’s always tough to game plan when you lost against a star having a bad shooting night. 
 
+### Keep the Aggressive Drop
+The help defender on screen actions MUST come up the floor when any of the Warriors guards (Curry, Thompson, Poole) is coming off one. We saw the Celtics make the adjustment in the second half of G1, but they got burned in the first half for the lapse. No need to learn the same lesson twice, right?
+
+
 We’ll have to wait for Sunday Night to see.
 
 Go Celts.
