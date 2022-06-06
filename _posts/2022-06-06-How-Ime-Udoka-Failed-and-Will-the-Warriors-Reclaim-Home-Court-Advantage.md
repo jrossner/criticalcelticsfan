@@ -12,8 +12,9 @@ The Celtics-Warriors Finals is tied at one-game apiece. Some will say the Warrio
 Jayson Tatum, 1st-Team All-NBA and All-Star (replacement) Starter, was a _-36 in 34 minutes on the floor last night_. __That’s the worst mark of his career and an NBA Finals record__. Defensively, Tatum came away with 1 steal, and only got called for 2 fouls; so it’s not like he was playing defense with fouling out on his mind. Offensively, despite an efficient start, Tatum ended 8-19 from the field, and 6-8 from the charity stripe for a total of 28 points – nothing to scoff at – but was buoyed by three-point success in the first half. He was 2-10 inside the Arc, finishing 2 of 7 from in the paint and missing all 3 midrange shots from roughly the same spot a few feet to the side of the left elbow (map below). Unlike Game 1, Tatum couldn’t offset his cold shooting with playmaking: He donated 4 turnovers and only 3 assists. 
 
 <p align="center"> 
-    <img src="/criticalcelticsfan/assets/22Finals/Tatum-Game-2.png" width="400" height="400" />
-    <div> Courtesy of [ESPN](https://www.espn.com/nba/playbyplay/_/gameId/401442531) </div>
+    <img src="/criticalcelticsfan/assets/22Finals/Tatum-Game-2.png" width="400" height="400" /></br>
+    <a href="https://www.espn.com/nba/playbyplay/_/gameId/401442531">Courtesy of ESPN</a>
+
 </p>
 
 ## Did the Cs Address Game 2 Work-Ons?
