@@ -13,7 +13,7 @@ Jayson Tatum, 1st-Team All-NBA and All-Star (replacement) Starter, was a _-36 in
 
 <p align="center"> 
     <img src="/criticalcelticsfan/assets/22Finals/Tatum-Game-2.png" width="400" height="400" /><br>
-    <a href="https://secure.espncdn.com/redesign/assets/img/nba/bg-court.svg">Courtesy of ESPN</a>
+    <a href="https://www.espn.com/nba/playbyplay/_/gameId/401442531">Courtesy of ESPN</a>
 
 </p>
 
