@@ -27,7 +27,7 @@ remote_theme: jekyll/minima
 #theme: minima
 
 # items per page
-paginate: 5
+#paginate: 5
 
 # Disqus Comments
 disqus:
