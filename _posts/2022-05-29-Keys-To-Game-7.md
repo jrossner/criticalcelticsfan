@@ -4,6 +4,7 @@ title: "Keys to Game 7"
 date: 2022-05-29 09:0:00 -0000
 categories: ecf playoffs game seven
 comments: true
+paginate_path: '/:num/pagination-plugin/'
 ---
 When the season began, even towards the end of the season, the realistic expectations weren't to win an NBA Championship. We all go into the season with the Goal to. And this team has had the talent to for the last 4 years it feels. But who would think this team _should_ win it all this season? As soon as the playoffs started, the goal-posts started getting backed up. Beating the Nets was meaningful, yet now it seems like the bare minimum. Beating the Defending Champions was Mount Everest. Now that its been scaled it's no longer impressive. And now losing to these Miami Heat would be a massive disapointment.
 
