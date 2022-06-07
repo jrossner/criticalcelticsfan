@@ -4,6 +4,7 @@ title: "Celtics vs Warriors: Finals Edition"
 date: 2022-05-31 20:0:00 -0000
 categories: nba finals playoffs celtics warriors
 comments: true
+paginate_path: '/:num/pagination-plugin/'
 ---
 
 While Celtics players are (hopefully) getting healthy, specifically Rob Williams and Marcus Smart, we are taking a look at how both sides matchup in __these__ Finals. Not the 2017, 2018, or even the 2020 Finals.
