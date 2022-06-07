@@ -43,9 +43,7 @@ pagination:
   sort_field: 'date'
   sort_reverse: true
   category: 'posts'
-  trail:
-    before: 3
-    after: 3
+  offset: 2
   extension: html
   #indexpage: 'index'
 
