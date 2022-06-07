@@ -58,4 +58,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-remote-theme
-  - jekyll-paginate
+  - jekyll-paginate-v2
