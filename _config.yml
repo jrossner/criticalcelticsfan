@@ -33,7 +33,7 @@ remote_theme: jekyll/minima
 # pagination
 permalink: /:year/:month/:title.html
 pagination:
-  enabled: true
+  enabled: false
   debug: false
   collection: 'posts'
   per_page: 3
