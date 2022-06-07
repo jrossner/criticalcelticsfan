@@ -26,8 +26,23 @@ google_analytics: G-DSYZFWXV0Y
 remote_theme: jekyll/minima
 #theme: minima
 
-# items per page
-#paginate: 5
+# pagination
+pagination:
+  enabled: true
+  debug: false
+  collection: 'posts'
+  per_page: 5
+  permalink: '/page/:num'
+  #title: ':title - page :num
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  category: 'posts'
+  trail:
+    before: 3
+    after: 3
+  extension: html
+  #indexpage: 'index'
 
 # Disqus Comments
 disqus:
