@@ -13,7 +13,8 @@ gem: jekyll-sitemap
 source "https://rubygems.org"
 gemspec :name => "jekyll"
 
-gem "jekyll/minima"
+gem 'jekyll/minima'
+gem 'jekyll-paginate'
 
 gem "rake", "~> 13.0"
 
