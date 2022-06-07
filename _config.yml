@@ -27,8 +27,8 @@ remote_theme: jekyll/minima
 #theme: minima
 
 #turn off old code?
-paginate: nil
-paginate_path: nil
+#paginate: nil
+#paginate_path: nil
 
 # pagination
 permalink: /:year/:month/:title.html
