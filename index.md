@@ -5,7 +5,10 @@ title: "Welcome to the Critical Celtics Fan Blog"
 
 Discussing what the Boston Celtics need to do better.  
 
-## Current Matchup: 
-Game 3 of NBA Finals vs Golden State Warriors (Series Tied 1-1)
-
-# Posts:
+<p align="center">
+  <h2>Current Matchup:</h2>
+  Game 3 of NBA Finals vs Golden State Warriors (Series Tied 1-1)
+</p>
+<p align="center">
+  <h1>Posts:</h1>
+</p>
