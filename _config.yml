@@ -58,8 +58,6 @@ disqus:
 #for sitemap
 url: "https://jrossner.github.io/criticalcelticsfan/"
 
-gems:
-  - jekyll-paginate-v2
 # plugins
 plugins:
   - jekyll-sitemap
