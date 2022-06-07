@@ -14,7 +14,7 @@ source "https://rubygems.org"
 gemspec :name => "jekyll"
 
 gem 'jekyll/minima'
-gem 'jekyll-paginate'
+gem 'jekyll-paginate-v2'
 
 gem "rake", "~> 13.0"
 
