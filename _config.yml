@@ -49,6 +49,7 @@ paginate_path: "/criticalcelticsfan/page:num/"
 header_pages:
   - index.html
   - about.md
+  - whereToFind.md
 
 # Disqus Comments
 disqus:
