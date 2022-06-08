@@ -20,6 +20,7 @@ layout: default
     {% for post in paginator.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <div>{{post.date}}</div>
 
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
@@ -27,11 +28,13 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+  <div> End of post render headline logic </div>
   
   <!-- 
     Showing buttons to move to the next and to the previous list of posts (pager buttons).
   -->
   {% if paginator.total_pages > 1 %}
+  <div> Begin button logic </div>
   <ul class="pager">
       {% if paginator.previous_page %}
       <li class="previous">
@@ -46,7 +49,7 @@ layout: default
       <div>End of Total Pages Logic</div>
   </ul>
   {% else %}
-      <div>Heres the issue maybe: {paginator.total_pages} </div>
+      <div>Heres the issue maybe: {{paginator.total_pages}}</div>
   {% endif %}
   <div>Reached End</div>
 </div>
