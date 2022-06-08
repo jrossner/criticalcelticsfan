@@ -31,17 +31,21 @@ remote_theme: jekyll/minima
 #paginate_path: nil
 
 # pagination
-permalink: /:year/:month/:title.html
-pagination:
-  enabled: true
-  debug: true
-  per_page: 3
-  permalink: '/page/:num/'
-  title: ' - page :num'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
+#permalink: /:year/:month/:title.html
+#pagination:
+#  enabled: true
+#  debug: true
+#  per_page: 3
+#  permalink: '/page/:num/'
+#  title: ' - page :num'
+#  limit: 0
+#  sort_field: 'date'
+#  sort_reverse: true
   #indexpage: 'index'
+
+paginate: 3
+paginate_path: "/criticalcelticsfan/page:num/"
+
 
 # Disqus Comments
 disqus:
@@ -57,4 +61,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-remote-theme
-  - jekyll-paginate-v2
+  - jekyll-paginate
