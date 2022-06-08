@@ -4,7 +4,6 @@ title: "How to get away with murder: A Celtics Edition"
 date: 2022-06-03 20:10:00 -0000
 categories: nba finals playoffs celtics warriors
 comments: true
-paginate_path: '/:num/pagination-plugin/'
 ---
 
 The Boston Celtics took game 1 of the NBA Finals on the Golden State Warriors’ home court. We knew whoever won Game 1 would instantly become the favorites to win the series. While I maintain the Celtics should win this series in 6 games, I caution any Celtics fans who now expect the Celtics to be holding the Larry O’Brien by June 14th.
