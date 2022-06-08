@@ -46,6 +46,9 @@ remote_theme: jekyll/minima
 paginate: 3
 paginate_path: "/criticalcelticsfan/page:num/"
 
+header_pages:
+  - index.html
+  - about.md
 
 # Disqus Comments
 disqus:
