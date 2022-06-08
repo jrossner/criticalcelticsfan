@@ -3,7 +3,7 @@ layout: default
 ---
 
 <style>
-  ul.pager { text-align: center; list-style: none;}
+  ul.pager { text-align: center; list-style: none; }
   ul.pager li {display: inline;border: 1px solid #007A33; padding: 10px; margin: 5px; color: #007A33;}
 </style>
 
@@ -46,12 +46,12 @@ layout: default
   <ul class="pager">
       {% if paginator.previous_page %}
       <li class="previous">
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; See Newer</a>
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" style="color:#BA9653;background-color:#007A33;">&larr; See Newer</a>
       </li>
       {% endif %}
       {% if paginator.next_page %}
       <li class="next">
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">See Older &rarr;</a>
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" style="color:#007A33;background-color:#BA9653;">See Older &rarr;</a>
       </li>
       {% endif %}
   </ul>
