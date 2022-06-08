@@ -2,13 +2,8 @@
 layout: default
 ---
 <article class="page">
-  
-  {%- if page.title -%}
-    <h1 class="page-heading" style="color:#007A33;">{{ page.title }}</h1>
-  {%- endif -%}
-
   <header class="page-header">
-    <h1 class="page-title">{{ page.title | escape }}</h1>
+    <h1 class="page-title" style="color:#007A33;">{{ page.title | escape }}</h1>
   </header>
 
   <div class="page-content">
