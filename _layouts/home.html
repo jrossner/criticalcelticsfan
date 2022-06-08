@@ -28,10 +28,11 @@ layout: default
         Here is the main paginator logic called.
         All calls to site.posts should be replaced by paginator.posts 
     -->
+    <h2 style="color:#007A33;"> Posts: </h2>
     {% for post in paginator.posts %}
       <li>
         <h2>
-          <a class="post-link" style="color:#007A33;" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+          <a class="post-link" style="color:#BA9653;" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
         <span class="post-excerpt">{{ post.excerpt }}</span>
