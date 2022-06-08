@@ -12,31 +12,24 @@ layout: default
   {{ content }}
 
   <ul class="post-list">
-    <div> Check that list is reached </div>
     <!-- 
         Here is the main paginator logic called.
         All calls to site.posts should be replaced by paginator.posts 
     -->
-    <div> Posts: {{paginator.posts}}</div>
     {% for post in paginator.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <div>post date spawned</div>
 
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
-        <div>post link spawned</div>
       </li>
     {% endfor %}
   </ul>
-  <div> End of post render headline logic </div>
-  
   <!-- 
     Showing buttons to move to the next and to the previous list of posts (pager buttons).
   -->
   {% if paginator.total_pages > 1 %}
-  <div> Begin button logic </div>
   <ul class="pager">
       {% if paginator.previous_page %}
       <li class="previous">
@@ -48,11 +41,7 @@ layout: default
           <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">See Older &rarr;</a>
       </li>
       {% endif %}
-      <div>End of Total Pages Logic</div>
   </ul>
-  {% else %}
-      <div>Heres the issue maybe: {{paginator.total_pages > 1}}</div>
   {% endif %}
-  <div>Reached End</div>
 </div>
 {% include advertisements.html %}
