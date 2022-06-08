@@ -38,18 +38,18 @@ Brown came out aggressive and hot. He hit three 3s, a technical-foul free throw,
 ### Klay Thompson
 Thompson’s first two games of this series have been duds. 
 
-Game 1: 15 points on 6-14 shooting from the field, 3-7 from deep.
+Game 1: 15 points on 6-14 shooting from the field, 3-7 from deep.  
 Game 2: 11 points on 4-19 from the field, 1-8 from deep.
 
 I want to give the Celtics defense credit, as they certainly have done a good job sticking on Thompsons hip and sending size at him to prevent his sneaky-good post-ups, but Thompson is due for a hot night. Thompson was great shooting the deep ball in Round 1 vs Denver (22-48, 46%), but has struggled since, __except in close-out games__.
 
-Round 2 vs Memphis:
-Games 1-5: 12-40, 29.3%
-Game 6: 8-14, 57%
+Round 2 vs Memphis:  
+&nbsp;&nbsp;&nbsp;&nbsp;Games 1-5: 12-40, 29.3%  
+&nbsp;&nbsp;&nbsp;&nbsp;Game 6: 8-14, 57%
 
-Round 3 vs Dallas:
-Games 1-4: 7-24, 29.2%
-Game 5: 8-16, 50%
+Round 3 vs Dallas:  
+&nbsp;&nbsp;&nbsp;&nbsp;Games 1-4: 7-24, 29.2%  
+&nbsp;&nbsp;&nbsp;&nbsp;Game 5: 8-16, 50%
 
 The obvious takeaway is should the Warriors get to 3 wins, expect Thompson to torch you from deep. But these moments also show that a Thompson-takeover is not a rare event, and we probably don’t need to wait for an elimination game for him to hurt the Cs. With the Celtics’ issues slowing down Curry and Poole, Thompson could be the trump card for the Warriors.
 
