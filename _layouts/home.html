@@ -43,8 +43,9 @@ layout: default
           <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">See Older &rarr;</a>
       </li>
       {% endif %}
+    <div>End of Total Pages Logic</div>
   </ul>
   {% endif %}
-
+  <div>Reached End</div>
 </div>
 {% include advertisements.html %}
