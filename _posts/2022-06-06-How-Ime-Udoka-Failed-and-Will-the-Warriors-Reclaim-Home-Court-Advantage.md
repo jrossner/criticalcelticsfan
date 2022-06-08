@@ -41,7 +41,7 @@ Thompson’s first two games of this series have been duds.
 Game 1: 15 points on 6-14 shooting from the field, 3-7 from deep.  
 Game 2: 11 points on 4-19 from the field, 1-8 from deep.
 
-I want to give the Celtics defense credit, as they certainly have done a good job sticking on Thompsons hip and sending size at him to prevent his sneaky-good post-ups, but Thompson is due for a hot night. Thompson was great shooting the deep ball in Round 1 vs Denver (22-48, 46%), but has struggled since, __except in close-out games__.
+I want to give the Celtics defense credit, as they certainly have done a good job sticking on Thompsons hip and sending size at him to prevent his sneaky-good post-ups, but Thompson is due for a hot night. Thompson was great shooting the deep ball in Round 1 vs Denver (22-48, 46%), but has struggled since, __except in series-clinchers__. Thompson was a primary reason they were able to win each one.
 
 Round 2 vs Memphis:  
 &nbsp;&nbsp;&nbsp;&nbsp;Games 1-5: 12-40, 29.3%  
