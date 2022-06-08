@@ -43,8 +43,10 @@ layout: default
           <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">See Older &rarr;</a>
       </li>
       {% endif %}
-    <div>End of Total Pages Logic</div>
+      <div>End of Total Pages Logic</div>
   </ul>
+  {% else %}
+      <div>Heres the issue maybe: {paginator.total_pages} </div>
   {% endif %}
   <div>Reached End</div>
 </div>
