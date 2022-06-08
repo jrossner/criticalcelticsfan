@@ -4,7 +4,6 @@ title: "Game 3: How Ime Udoka Failed the Third Quarter Test, and Will the Warrio
 date: 2022-06-06 13:30:00 -0000
 categories: nba finals playoffs celtics warriors ime udoka boston goldenstate
 comments: true
-paginate_path: '/:num/pagination-plugin/'
 ---
 
 The Celtics-Warriors Finals is tied at one-game apiece. Some will say the Warriors have the momentum advantage, since they won Game 2, and don’t forget it was a _blowout_. Others would rebuke this notion with the Celtics’ momentarily stealing home-court advantage, and considering they’re undefeated after a loss this postseason, signs point to the Celtics retaking the lead in Game 3. One thing is clear for both sides: the version of the Celtics on the floor in the second half of Game 2 doesn’t stand a chance against these Warriors.
