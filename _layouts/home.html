@@ -4,11 +4,19 @@ layout: default
 
 <div class="home">
   
+  <!--
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {% else %}
     <h1 class="page-heading">Write-Ups</h1>
   {%- endif -%}
+  -->
+  
+  {% for item in site.data.nav.docs %}
+    <li>
+        <a href="{{ item.url | absolute_url }}">{{ item.title }}</a>
+    </li>
+  {% endfor %}
 
   {{ content }}
 
