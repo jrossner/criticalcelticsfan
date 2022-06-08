@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "About Us"
+title: "About"
 ---
 
 # About Us
