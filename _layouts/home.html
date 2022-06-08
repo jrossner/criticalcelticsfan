@@ -17,6 +17,7 @@ layout: default
         Here is the main paginator logic called.
         All calls to site.posts should be replaced by paginator.posts 
     -->
+    <div> Posts: {{paginator.posts}}</div>
     {% for post in paginator.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
@@ -49,7 +50,7 @@ layout: default
       <div>End of Total Pages Logic</div>
   </ul>
   {% else %}
-      <div>Heres the issue maybe: {{paginator.total_pages}}</div>
+      <div>Heres the issue maybe: {{paginator.total_pages > 1}}</div>
   {% endif %}
   <div>Reached End</div>
 </div>
