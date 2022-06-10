@@ -20,7 +20,7 @@ Warriors lineups with Andrew Wiggins, Draymond Green, and Gary Payton II played 
   7 TOV <br>
 </p>
 
-The Celtics offense, while still turnover prone, is doing its job against the Warriors’ defense.
+The Celtics' offense, while still turnover prone, is doing its job against the Warriors’ defense.
 
 ### The Continuing Lowlight of this Series
 In Quarters 1,2, & 4 this series, Celtics are 3-0 with an average margin of victory of 17.3
