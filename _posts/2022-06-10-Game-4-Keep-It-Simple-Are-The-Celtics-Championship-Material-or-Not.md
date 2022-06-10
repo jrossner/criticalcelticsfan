@@ -34,6 +34,13 @@ Turnovers. Move yourself on offense. 12 turnovers in a game isn’t horrific, bu
 ### Stop Bleeding the Clock Early
 The Celtics have this awful habit of trying to run the clock out with 6+ minutes in the 4th with any sort of lead. I don’t mind making Tatum the Playmaker, but slowing the offense down, and starting the action with 10 seconds on the clock gives the Warriors a chance to catch their breath; not to mention the confidence boost from stopping a team that forced itself into a buzzer beater. Just keep running the sets. If there's 2 minutes left and you’re up 10+, then you can start dribbling it out. As long as you still commit on the defensive end, of course.
 
+## One Opinion To Share
+I wanted to briefly talk about the controversy with Boston crowd chants directed at Draymond Green.
+
+I have no issue with the chant itself. It's an expression of the passion fans have for their team and anyone who crosses them. It's good for the game __as long as it doesn't go beyond voicing disdain for his play__. Boston fans need to know our city has a reputation we need to shake. Do not throw anything at another persoon. Do not pour anything on another person. Do nothing ignorant. Represent the best of the city, not the worst. And if you insist on doing something stupid, don't forget the people playing for, coaching for, helping your favorite team succeed will see what you do and may decide they don't want to represent Boston anymore. I doubt any black player wants to play for a city that seems to embrace racist undertones.
+
+Other than that, go wild, impact the game. Tell Draymond his jumper is ugly, or that he's sucked this series. Let's keep it about basketball, and show we are the best fanbase in the league.
+
 ## Predictions
 The Celtics should take Game 4. I expect the Warriors to take Game 5 at home, a victory of desperation which depletes the Warriors such that the Celtics secure the championship in front of their home crowd. 
 
