@@ -21,7 +21,6 @@ Warriors lineups with Andrew Wiggins, Draymond Green, and Gary Payton II played 
 </p>
 
 The Celtics' offense, while still turnover prone, is doing its job against the Warriors’ defense.
-
 ### The Continuing Lowlight of this Series
 In Quarters 1,2, & 4 this series, Celtics are 3-0 with an average margin of victory of 17.3
 
@@ -32,7 +31,6 @@ Will we ever figure out why the Celtics continually slip into some sort of lacka
 ## The Work Ons
 ### Value Possessions
 Turnovers. Move yourself on offense. 12 turnovers in a game isn’t horrific, but they tend to come in bunches leading to Warriors runs. Stay in control.
-
 ### Stop Bleeding the Clock Early
 The Celtics have this awful habit of trying to run the clock out with 6+ minutes in the 4th with any sort of lead. I don’t mind making Tatum the Playmaker, but slowing the offense down, and starting the action with 10 seconds on the clock gives the Warriors a chance to catch their breath; not to mention the confidence boost from stopping a team that forced itself into a buzzer beater. Just keep running the sets. If there's 2 minutes left and you’re up 10+, then you can start dribbling it out. As long as you still commit on the defensive end, of course.
 
