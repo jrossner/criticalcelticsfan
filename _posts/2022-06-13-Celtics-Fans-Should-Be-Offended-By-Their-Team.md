@@ -40,6 +40,6 @@ Please don’t think we wouldn’t be out of our minds off winning a championshi
 
 We’re strapping in for Game 5.  
 Go Celts.
-<p align="right"> 
+<p align="center"> 
     <img src="/criticalcelticsfan/assets/ccflogo.jpg" width="50" height="50" />
 </p>
