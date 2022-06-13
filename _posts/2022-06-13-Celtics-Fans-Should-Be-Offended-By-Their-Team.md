@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Celtics Fans Should Be Offended By Their Team"
+title: Celtics Fans Should Be Offended By Their Team
 date: 2022-06-13 12:00:00 -0000
 categories: boston celtics warriors nba finals
 ---
