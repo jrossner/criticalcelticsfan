@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Game 6: Are the Celtics Cooked?"
+title: Game 6: Are the Celtics Cooked?
 date: 2022-06-14 16:20:00 -0000
 categories: boston celtics warriors nba finals
 ---
