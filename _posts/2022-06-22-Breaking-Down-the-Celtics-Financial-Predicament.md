@@ -6,10 +6,10 @@ categories: nba boston celtics offseason 2022
 comments: true
 ---
 
-The 2022 Offseason is upon us, and if you watched the Finals, you probably came to a couple of conclusions like most fans:
-1) The Celtics played terribly in Games 4, 5 & 6
-2) The Celtics went on long cold stretches each game
-3) The Celtics are turnover prone – they shoot themselves in the foot
+The 2022 Offseason is upon us, and if you watched the Finals, you probably came to a couple of conclusions like most fans:  
+1) The Celtics played terribly in Games 4, 5 & 6  
+2) The Celtics went on long cold stretches each game  
+3) The Celtics are turnover prone – they shoot themselves in the foot 
 
 So the Offseason brings the Cs the opportunity to address those issues, and sure-up a team that is now absolutely expected to return to the Finals. Anything less would be a disappointment. Besides a healthy Milwaukee team, and Brooklyn making a Kyrie trade, every other matchup in the East should be considered an upset if they topple the Celtics in 7 games. Let’s look at the Celtics current financial situation, and prepare ourselves for the offseason by getting to know the basics.
 
