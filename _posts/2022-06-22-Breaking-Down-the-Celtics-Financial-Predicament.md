@@ -16,7 +16,7 @@ So the Offseason brings the Cs the opportunity to address those issues, and sure
 A huge thanks to [Spotrac](https://www.spotrac.com/nba/boston-celtics/cap/?ref=trending-pages) for providing info on the Celtics' Salary Cap and Contracts.
 
 ## Guaranteed Contracts for 2022-2023 
-The 2022 NBA Salary Cap is $122 million, but teams can spend up to an additional $27 million on retaining their players before being hit with the luxury tax.
+The 2022 NBA Salary Cap is projected at $123.6 million (as of June 29th), but teams can spend up to an additional $27 million on retaining their players before being hit with the luxury tax.
 
 Let’s look at which cap hits are already locked in for 2022-2023
 - Jayson Tatum ($30,351,780)
