@@ -29,7 +29,7 @@ Let’s look at which cap hits are already locked in for 2022-2023
 - Aaron Nesmith ($3,804,360)
 - Payton Pritchard ($2,239,200)
 
-That’s $123,174,562 in fully guaranteed cap space. Already over the salary cap.
+That’s $123,174,562 in fully guaranteed cap space. ~~Already over the salary cap~~.
 
 ## Partially guaranteed contracts for 2022-2023::
 - Al Horford ($26,500,000) _$7,000,000 incentive for winning Finals is reportedly being guaranteed by Celtics despite loss_
