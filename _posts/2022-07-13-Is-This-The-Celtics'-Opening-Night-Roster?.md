@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Is this the Celtics’ Opening Night Roster?"
+title: Is this the Celtics’ Opening Night Roster?
 date: 2022-07-13 09:10:00 -0000
 categories: boston celtics nba offseason roster
 ---
