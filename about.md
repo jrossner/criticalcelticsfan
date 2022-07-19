@@ -14,8 +14,8 @@ For any questions or requests, or to contact in general, please send an email to
 
 You can also stay up to date with us on social media!
 
-- Instagram: @CriticalCelticsFan
-- Twitter: @CriticalCsFan
+- [Instagram](https://www.instagram.com/criticalcelticsfan/): @CriticalCelticsFan
+- [Twitter](https://twitter.com/criticalcsfan): @CriticalCsFan
 
 Or support us through:
 - [Patreon](https://www.patreon.com/CriticalCelticsFan): CriticalCelticsFan
