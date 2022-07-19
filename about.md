@@ -16,3 +16,7 @@ You can also stay up to date with us on social media!
 
 - Instagram: @CriticalCelticsFan
 - Twitter: @CriticalCsFan
+
+Or support us through:
+- [Patreon](https://www.patreon.com/CriticalCelticsFan): CriticalCelticsFan
+- [CashApp](https://cash.app/$CriticalCelticsFan): $CriticalCelticsFan
