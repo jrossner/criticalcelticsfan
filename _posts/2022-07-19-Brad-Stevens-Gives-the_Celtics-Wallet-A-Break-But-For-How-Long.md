@@ -5,7 +5,7 @@ date: 2022-07-19 10:15:00 -0000
 categories: boston celtics nba offseason
 ---
 
-The deadline for using the Evan Fournier Traded-Player-Exception has passed, and the Celtics roster sits at 12 official players and 2 two-way players. NBA “teams are required to have 14 players on their rosters (not including two-way players)”, so we know the Celtics are required to sign at least two more players before the regular season starts [CBABreakdown.com](https://cbabreakdown.com/other-notes). 
+The deadline for using the Evan Fournier Traded-Player-Exception has passed, and the Celtics roster sits at 12 official players and 2 two-way players. NBA “teams are required to have 14 players on their rosters (not including two-way players)”, so we know the Celtics are required to sign at least two more players before the regular season starts ([CBABreakdown.com](https://cbabreakdown.com/other-notes)). 
 
 The most likely move seems to be that Brad Stevens fills those spots to start the season with minimum-contract guys that show competence during this stretch between summer league and preseason in Celtics’ workouts. During the offseason, NBA teams may carry 20 players on their roster, so most teams cut five players then assign them to their G-league affiliate, possibly award them a two-way contract, or simply let them pursue other opportunities. The Celtics could poach these released players - but for most young players trying to establish a presence in the league, the prospect of sitting on the end of a deep roster is far from tantalizing. It does present the opportunity to grow in practice and possibly witness a deep playoff run, but for guys desperate for financial security this is not usually a high priority.
 
